@@ -27,6 +27,6 @@
     </li>
   <li>Copiar y pegar el token de tu chat bot en la linea: token = "TOKEN"</li>
   <li>Copiar y pegar el ID del chat en la linea: chat_id = "CHATID"</li>
-  <li>Por último, probar a ejecutar python3 notificar.py "TEST"</li>
+  <li>Por último, probar a ejecutar: python3 notificar.py "TEST"</li>
 </ol>
 
