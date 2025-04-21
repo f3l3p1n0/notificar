@@ -1,6 +1,6 @@
 <p align="center"><img src="https://i.postimg.cc/rz6h2mdp/botfather.png" width="450px" height="250px"></p>
 <br>
-<h3>🤖 Script para notificar a través deTelegram</h3>
+<h3>🤖 Script para notificar a través de Telegram</h3>
 <p>Este script está diseñado para que lo puedas incluir a tu código en python o se utilice de forma adicional con bash u otro lenguaje de scripting.</p>
 <p>En mi caso, lo utilizo por ejemplo para notificar las acciones realizadas desde mi file server. Este servidor tiene un script en bash el cual le permite realizar el trabajo deseado y cuando ha finalizado llama a través de una función al script de notificar. Y este posteriormente, envía un mensaje a mi chat de Telegram informándome.</p>
 <br>
